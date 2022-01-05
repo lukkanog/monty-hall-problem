@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Monty Hall Problem</h1>
+    <h1>Problema de Monty Hall</h1>
 
 
     <form v-if="!started" class="starter-form">
