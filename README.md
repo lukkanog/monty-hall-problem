@@ -1,24 +1,29 @@
-# monty-hall-problem
+# Monty Hall Problem
+Projeto do Problema de Monty Hall, feito no Curso Vue JS 2 da Cod3r
 
-## Project setup
-```
-yarn install
+## Veja em
+https://monty-hall-problem-lukkanog.vercel.app/
+
+## Feito com
+![Image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
+
+
+## Como executar em ambiente de desenvolvimento local
+- Clone esse repositório;
+- Instale as dependências do projeto, através do comando:
+``` bash
+# Utilizando npm:
+npm install
+
+# Utilizando yarn:
+yarn
 ```
 
-### Compiles and hot-reloads for development
-```
+- Inicie o servidor web de desenvolvimento local:
+``` bash
+# Utilizando npm:
+npm run serve
+
+# Utilizando yarn:
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
